@@ -1,0 +1,6 @@
+D:\Project Me\API\Model\ModelLibrary\ModelLibrary\bin\Debug\ModelLibrary.dll
+D:\Project Me\API\Model\ModelLibrary\ModelLibrary\bin\Debug\ModelLibrary.pdb
+D:\Project Me\API\Model\ModelLibrary\ModelLibrary\obj\Debug\ModelLibrary.csproj.AssemblyReference.cache
+D:\Project Me\API\Model\ModelLibrary\ModelLibrary\obj\Debug\ModelLibrary.csproj.CoreCompileInputs.cache
+D:\Project Me\API\Model\ModelLibrary\ModelLibrary\obj\Debug\ModelLibrary.dll
+D:\Project Me\API\Model\ModelLibrary\ModelLibrary\obj\Debug\ModelLibrary.pdb
