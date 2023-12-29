@@ -1,0 +1,6 @@
+@Services_Ibadah_HostAddress = http://localhost:5153
+
+GET {{Services_Ibadah_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
